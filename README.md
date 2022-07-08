@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm 0shim4</h1>
 <h2 align="center">A passionate backend developer from Japan</h3>
 <p align="center">
-  <img alt="dog" src="https://raw.githubusercontent.com/0shim4/0shim4/master/inu.gif" style="width: 51%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0shim4&amp;theme=gruvbox" alt="" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=0shim4&amp;theme=dark" style="width: 48%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0shim4&amp;theme=gruvbox" alt="" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=0shim4&amp;theme=dark">
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=0shim4&column=8&theme=gruvbox&no-frame=true" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=0shim4&column=8&theme=gruvbox&no-frame=true" style="width: 100%;">
