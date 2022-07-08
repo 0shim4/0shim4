@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm 0shim4</h1>
 <h2 align="center">A passionate backend developer from Japan</h3>
 <p align="center">
-  <img alt="dog" src="https://api2.iloveimg.com/v1/download/myAppg8f9n2t6hyj04qhA4A7qxypwp71A2vqbwmjf08yxyvq2j0rjcthpk6bqwy6fpx6s1q44s7ypxcg1vjzxfdzbz3dvf73cvjwskt2gvtg7rdkrAdqvnb43zkA9m5ht98sk1fjfpy0cAwmtblhmtm25z9ssl2khkqyygw8jwm5tsl29cgq">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0shim4&amp;theme=gruvbox" alt="" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=0shim4&amp;theme=dark">
+  <img alt="dog" src="https://api2.iloveimg.com/v1/download/myAppg8f9n2t6hyj04qhA4A7qxypwp71A2vqbwmjf08yxyvq2j0rjcthpk6bqwy6fpx6s1q44s7ypxcg1vjzxfdzbz3dvf73cvjwskt2gvtg7rdkrAdqvnb43zkA9m5ht98sk1fjfpy0cAwmtblhmtm25z9ssl2khkqyygw8jwm5tsl29cgq" style="width: 49%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0shim4&amp;theme=gruvbox" alt="" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=0shim4&amp;theme=dark" style="width: 49%;">
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=0shim4&column=8&theme=gruvbox&no-frame=true" alt="trophy" data-canonical-src="https://github-profile-trophy.vercel.app/?username=0shim4&column=8&theme=gruvbox&no-frame=true" style="width: 100%;">
